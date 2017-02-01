@@ -15,3 +15,5 @@ Git can record it
 Now you can get some diff, add some diff
 
 Creating a new branch is qucik.
+
+& simple.
