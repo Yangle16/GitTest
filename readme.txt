@@ -11,3 +11,5 @@ Yangle Shenzhen Guangdong China
 Add GPl to this file,now you can see!
 
 Git can record it
+
+Now you can get some diff, add some diff
