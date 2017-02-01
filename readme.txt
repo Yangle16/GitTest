@@ -6,8 +6,8 @@ Git learnning, my first Git file.
 
 2017-01-31 23:39
 
-Yangle Shenzhen
+Yangle Shenzhen Guangdong China
 
-You can do something diff
+Add GPl to this file,now you can see!
 
 Git can record it
